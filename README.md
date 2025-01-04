@@ -1,5 +1,5 @@
 <html>
   <head>
-    <title> About Karan Joshi </title>
+    About Karan Joshi
   </head>
 </html>
